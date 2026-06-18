@@ -3,12 +3,20 @@
   <head>
     <meta charset="utf-8">
     <title>Page Title</title>
-    <meta name="description" content="Roughly 155 characters">
     <link rel="stylesheet" type="text/css" href="style.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-    <script src="script.js"></script> 
   </head>
   <body>
-    <!-- Content -->
+   <img src="https://static.wikia.nocookie.net/dragonball/images/5/5b/BattleofGodsscan1.jpg/revision/latest?cb=20130315144242" alt=" a picture of the movie poster for dragon ball z battle of gods"
+    <h1> history/making of dragon ball z battle of gods </h1>
+    <p> dragon ball z battle of gods was made in 2013 and by then it would have been 16 years since dragonball ended in 1997
+        nothing new came out in terms of a new dragonball anime but dragon ball was still one of the most popular shows in general 
+        however there was a movie made in 
+    </p>
+
+
+
+
+
+
   </body>
 </html>
